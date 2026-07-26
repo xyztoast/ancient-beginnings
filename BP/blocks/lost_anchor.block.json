@@ -9,14 +9,14 @@
 		},
 		"components": {
 			"minecraft:collision_box": false,
-			"minecraft:selection_box": false,
+			"minecraft:selection_box": true,
 			"minecraft:destructible_by_mining": {
 				"seconds_to_destroy": 1
 			},
 			"minecraft:destructible_by_explosion": {
 				"explosion_resistance": 30
 			},
-			"minecraft:geometry": "geometry.r",
+			"minecraft:geometry": "geometry.lost_anchor",
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "lost_anchor",
