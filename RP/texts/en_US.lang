@@ -1,0 +1,5 @@
+item.ab:end_stone_brick=End Stone Brick
+item.ab:ender_eye_fragment=Eye of Ender Fragment
+entity.ab:ground_endermite.name=Ground Endermite
+item.spawn_egg.entity.ab:ground_endermite.name=Spawn Ground Endermite
+tile.ab:lost_anchor.name=Lost Anchor

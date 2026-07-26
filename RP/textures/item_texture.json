@@ -1,0 +1,10 @@
+{
+    "texture_data": {
+        "ab:end_stone_brick": {
+            "textures": "textures/items/end_stone_brick"
+        },
+        "ab:ender_eye_fragment": {
+            "textures": "textures/items/ender_eye_fragment"
+        }
+    }
+}
