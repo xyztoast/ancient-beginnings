@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header":{
+    "name": "Ancient Beginnings RP",
+    "description": "Every End has a beginning, some are ancient.",
+    "uuid": "18b68cca-5a85-4c43-852b-2011a8654c51",
+    "version":[ 1, 4, 2 ],
+    "min_engine_version": [ 1, 21, 30 ]
+  },
+  "modules" :[
+    {
+      "type": "resources",
+      "uuid": "19d4d115-da5c-4711-8168-99019868cc75",
+      "version":[ 1, 1, 0 ]
+    }
+  ]
+}
