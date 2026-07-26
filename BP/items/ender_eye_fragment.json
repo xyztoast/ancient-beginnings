@@ -1,0 +1,14 @@
+{
+    "format_version": "1.26.30",
+    "minecraft:item": {
+        "description": {
+            "identifier": "ab:ender_eye_fragment",
+            "menu_category": {
+                "category": "items"
+            }
+        },
+        "components": {
+            "minecraft:icon": "ab:ender_eye_fragment"
+        }
+    }
+}

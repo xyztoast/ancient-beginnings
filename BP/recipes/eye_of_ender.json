@@ -1,0 +1,26 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "ab:ender_eye_fragment"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "##",
+            "##"
+        ],
+        "key": {
+            "#": {
+                "item": "ab:ender_eye_fragment"
+            }
+        },
+        "unlock": [
+            {
+                "item": "minecraft:ender_eye"
+            }
+        ],
+        "result": {
+            "item": "minecraft:ender_eye"
+        }
+    }
+}
