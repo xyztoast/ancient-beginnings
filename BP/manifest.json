@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header":{
+    "name": "Ancient Beginnings BP",
+    "description": "Every End has a beginning, some are ancient.",
+    "uuid": "d0467e81-332b-4ba3-9acd-c6bbcf63ce71",
+    "version":[ 1, 4, 2 ],
+    "min_engine_version": [ 1, 21, 30 ]
+  },
+  "modules" :[
+    {
+      "type": "data",
+      "uuid": "19d4d415-da5c-4711-8168-99019863cc75",
+      "version":[ 1, 1, 0 ]
+    }
+  ]
+}
