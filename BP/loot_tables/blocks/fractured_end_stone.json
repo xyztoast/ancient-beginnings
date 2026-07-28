@@ -91,8 +91,8 @@
                         {
                             "function": "set_damage",
                             "damage": {
-                                "min": 0.95,
-                                "max": 0.99
+                                "min": 0.05,
+                                "max": 0.01
                             }
                         }
                     ]
