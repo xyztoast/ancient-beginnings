@@ -4,8 +4,8 @@
 	"padding": 8,
 	"num_mip_levels": 4,
 	"texture_data": {
-		"r": {
-			"textures": "textures/blocks/r"
+		"sour_berries": {
+			"textures": "textures/blocks/sour_berries"
 		}
 	}
 }
