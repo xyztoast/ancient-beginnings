@@ -4,3 +4,4 @@ entity.ab:ground_endermite.name=Ground Endermite
 item.spawn_egg.entity.ab:ground_endermite.name=Spawn Ground Endermite
 tile.ab:lost_anchor.name=Lost Anchor
 tile.ab:sour_berries.name=Sour Berries
+tile.ab:fractured_end_stone.name=Fractured End Stone
