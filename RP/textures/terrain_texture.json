@@ -6,6 +6,9 @@
 	"texture_data": {
 		"sour_berries": {
 			"textures": "textures/blocks/sour_berries"
+		},
+		"fractured_end_stone": {
+            "textures": "textures/blocks/fractured_end_stone"
 		}
 	}
 }
