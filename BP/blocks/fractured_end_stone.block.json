@@ -1,0 +1,23 @@
+{
+    "format_version": "1.26.30",
+    "minecraft:block": {
+        "description": {
+            "identifier": "ab:fractured_end_stone",
+            "menu_category": {
+                "category": "construction"
+            }
+        },
+        "components": {
+            "minecraft:destructible_by_mining": {
+                "seconds_to_destroy": 2
+            },
+            "minecraft:destructible_by_explosion": {
+                "explosion_resistance": 1
+            },
+            "minecraft:map_color": "#ffffff",
+            "minecraft:light_dampening": 0,
+            "minecraft:light_emission": 0,
+            "minecraft:loot": "loot_tables/blocks/fractured_end_stone.json"
+        }
+    }
+}
