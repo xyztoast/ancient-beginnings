@@ -1,14 +1,14 @@
 {
-	"resource_pack_name": "vanilla",
-	"texture_name": "atlas.terrain",
-	"padding": 8,
-	"num_mip_levels": 4,
+	"resource_pack_name": "vanilla", // keep this as "vanilla", it's a bedrock quirk, not actually referencing vanilla's files
+	"texture_name": "atlas.terrain", // also always stays like this, it's the name of the texture atlas system
+	"padding": 8, // pixel padding between textures in the atlas, leave as default unless you know why to change it
+	"num_mip_levels": 4, // mipmapping levels, leave as default
 	"texture_data": {
-		"sour_berries": {
-			"textures": "textures/blocks/sour_berries"
+		"sour_berries": { // this key = texture name your block/item references, no namespace prefix
+			"textures": "textures/blocks/sour_berries" // actual file path (no .png extension needed here)
 		},
-		"fractured_end_stone": {
-            "textures": "textures/blocks/fractured_end_stone"
+		"fractured_end_stone": { // this key must match "texture" in your block file's material_instances exactly
+            "textures": "textures/blocks/fractured_end_stone" // points to resource_pack/textures/blocks/fractured_end_stone.png
 		}
 	}
 }
