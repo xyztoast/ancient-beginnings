@@ -21,7 +21,7 @@
             "minecraft:geometry": "minecraft:geometry.full_block",
             "minecraft:material_instances": {
                 "*": {
-            "texture": "ab:fractured_end_stone"
+            "texture": "fractured_end_stone"
     }
 }
         }
