@@ -1,0 +1,20 @@
+{
+	"format_version": "1.21.100",
+	"minecraft:feature_rules": {
+		"description": {
+			"identifier": "ab:sour_berries_rule",
+			"places_feature": "ab:sour_berries_feature"
+		},
+		"conditions": {
+			"placement_pass": "first",
+			"minecraft:biome_filter": {
+				"test": "has_biome_tag",
+				"operator": "==",
+				"value": "the_end"
+			}
+		},
+		"distribution": {
+			"iterations": 3
+		}
+	}
+}
