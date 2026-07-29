@@ -5,6 +5,9 @@
         },
         "ab:ender_eye_fragment": {
             "textures": "textures/items/ender_eye_fragment"
+        },
+        "ab:sour_berry": {
+            "textures": "textures/items/sour_berries"
         }
     }
 }
