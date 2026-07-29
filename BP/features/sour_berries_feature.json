@@ -1,0 +1,25 @@
+{
+	"format_version": "1.21.100",
+	"minecraft:scatter_feature": {
+		"description": {
+			"identifier": "ab:sour_berries_feature"
+		},
+		"places_feature": "ab:sour_berries",
+		"iterations": 7,
+		"scatter_chance": 60,
+		"x": {
+			"distribution": "uniform",
+			"extent": [0, 15]
+		},
+		"y": {
+			"distribution": "uniform",
+			"extent": [0, 15]
+		},
+		"z": {
+			"distribution": "uniform",
+			"extent": [0, 15]
+		},
+		"projection": "project_onto_surface",
+		"block_filter": ["minecraft:end_stone"]
+	}
+}
